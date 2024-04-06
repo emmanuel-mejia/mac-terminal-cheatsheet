@@ -8,7 +8,7 @@
 </div>
 
 <!-- <p align='center' style="margin-top: 20px;">
-<a href="https://www.pythoncheatsheet.org/">Mac Terminal Cheatsheet</a>
+<a href="https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html#//apple_ref/doc/uid/TP40004268-CH271-SW9">Mac Terminal Cheatsheet</a>
 </p> -->
 
 <!-- ## Getting Started -->
