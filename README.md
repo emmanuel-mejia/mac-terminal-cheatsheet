@@ -4,7 +4,7 @@
 <h1 align="center">Mac Terminal Cheatsheet - Trucos</h1>
 
 <div align="center">
-  <a href="https://https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html#//apple_ref/doc/uid/TP40004268-CH271-SW9/">pythoncheatsheet.org</a> ||
+  <a href="https://https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html#//apple_ref/doc/uid/TP40004268-CH271-SW9/"</a> ||
 </div>
 
 <!-- <p align='center' style="margin-top: 20px;">
