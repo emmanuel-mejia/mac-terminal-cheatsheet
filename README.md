@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<h1 align="center">Hoja de Trucos para Terminal de Mac- Trucos</h1>
+<h1 align="center">Hoja de Trucos para Terminal de Mac</h1>
 
 <div align="center">
   <a href="https://https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html#//apple_ref/doc/uid/TP40004268-CH271-SW9/"</a> ||
